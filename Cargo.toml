@@ -8,7 +8,7 @@ edition = "2021"
 [dependencies]
 anyhow = "1.0.59"
 base64 = "0.13.0"
-chrono = "0.4.19"
+chrono = "0.4.21"
 dotenv = "0.15.0"
 envy = "0.4.2"
 percent-encoding = "2.1.0"
